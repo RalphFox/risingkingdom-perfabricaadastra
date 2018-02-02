@@ -8,6 +8,7 @@ recipes.remove(<advancedRocketry:oreScanner>);
 recipes.remove(<advancedRocketry:tile.solarGenerator>);
 recipes.remove(<advancedRocketry:observatory>);
 recipes.remove(<advancedRocketry:tile.drill>);
+recipes.remove(<advancedRocketry:item.asteroidChip>);
 
 
 mods.techreborn.blastFurnace.addRecipe(<advancedRocketry:advancedRocketryproductingot>*2, null, <techreborn:ingot:27>, <tfctech:item.Aluminum Ingot>, 1000, 128, 2300);
@@ -38,9 +39,6 @@ recipes.addShapeless(<advancedRocketry:tile.dockingPad>, [<ore:concrete>, <IC2:i
 recipes.remove(<advancedRocketry:tile.stationMarker>);
 recipes.addShapeless(<advancedRocketry:tile.stationMarker>, [<advancedRocketry:tile.loader:1>, <IC2:itemPartCircuitAdv>]);
 
-recipes.remove(<advancedRocketry:item.asteroidChip>);
-recipes.addShapeless(<advancedRocketry:item.asteroidChip>, [<advancedRocketry:dataUnit>, <IC2:itemPartCircuitAdv>]);
-
 recipes.remove(<advancedRocketry:tile.solarGenerator>);
 recipes.addShapeless(<advancedRocketry:tile.solarGenerator>, [<advancedRocketry:tile.solarPanel>, <IC2:itemBatREDischarged:*>, <libVulpes:batteryOutputRF>]);
 
@@ -56,6 +54,7 @@ recipes.addShapeless(<advancedRocketry:item.planetIdChip>, [<techreborn:part:7>,
 recipes.remove(<advancedRocketry:item.stationChip>);
 recipes.addShapeless(<advancedRocketry:item.stationChip>, [<libVulpes:Linker>,<techreborn:part:7>]);
 
+recipes.addShapeless(<advancedRocketry:item.elevatorChip>, [<advancedRocketry:item.planetIdChip>]);
 
 recipes.remove(<advancedRocketry:blockSatelliteBuilder>);
 recipes.addShaped(<advancedRocketry:blockSatelliteBuilder>,
