@@ -78,6 +78,10 @@ recipes.addShaped(<minecraft:dispenser>, [[<ore:stoneCobble>, <ore:stoneCobble>,
 recipes.remove(<terrafirmacraft:item.Log>);
 recipes.remove(<minecraft:glowstone_dust>);
 
+recipes.remove(<minecraft:log:12>);
+recipes.remove(<minecraft:log:13>);
+recipes.remove(<minecraft:log:14>);
+recipes.remove(<minecraft:log:15>);
 
 
 
