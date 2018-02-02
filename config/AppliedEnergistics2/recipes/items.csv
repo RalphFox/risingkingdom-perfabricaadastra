@@ -13644,51 +13644,51 @@ ExtraUtilities:shears, Precision Shears
 ExtraUtilities:creativebuilderswand, Super Builder's Wand
 ExtraUtilities:sonar_goggles, Sonar Goggles
 ExtraUtilities:scanner, Portable Scanner
-factorization:sculptTool:0, Sculpting Tool
-factorization:servo/servo_motor, Servo Motor
-factorization:tool/pocket_crafting_table, Pocket Crafting Table
-factorization:diamond_shard, Diamond Block Shard
-factorization:dark_iron_ingot, Dark Iron Ingot
-factorization:fan, Pressurizer
-factorization:mirror, Mirror
-factorization:servo/component, item.factorization:servo/component.name
-factorization:logic_matrix, Blank Logic Matrix
-factorization:ceramics/glaze_bucket, Glaze Bucket
-factorization:socket/scissors, Enormous Scissors
 factorization:logic_matrix_identifier, Logic Matrix: Identifier
-factorization:lead_ingot, Lead Ingot
-factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:fan, Pressurizer
+factorization:sap, Sap
 factorization:silver_ingot, Silver Ingot
-factorization:motor, Motor
-factorization:sludge, Sludge
-factorization:servo/instruction_plate, Instruction Plate
-factorization:barrelCart:0, Barrel Cart
-factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
-factorization:potencyBottle, Bottle of Potency
-factorization:insulated_coil, Insulated Coil
-factorization:daybarrel, item.factorization:daybarrel.name
-factorization:mansandwich:0, Manwich
-factorization:mansandwich:1, Spicy Manwich
-factorization:socket/:34, Robotic Arm
-factorization:socket/:35, Item Shifter
-factorization:entheas, Entheas
-factorization:logic_matrix_controller, Logic Matrix: Controller
-factorization:corkscrew, Corkscrew
-factorization:brokenArtifact, item.factorization:brokenArtifact.name
-factorization:servo/servo, Servo
-factorization:spawnPoster, Poster
-factorization:tool/matrix_programmer, Logic Matrix Programmer
-factorization:diamond_cutting_head, Diamond Cutting Head
-factorization:nether_powder, Netherrack Powder
+factorization:servo/component, item.factorization:servo/component.name
 factorization:acid:0, Sulfuric Acid
 factorization:acid:1, Aqua Regia
-factorization:utiligoo:0, Goo
-factorization:docbook, The Factorization Manual
-factorization:tool/charge_meter, Charge Meter
-factorization:servo/sprocket, Dark Iron Sprocket
-factorization:servo/commenter, Commenter
-factorization:sap, Sap
+factorization:logic_matrix, Blank Logic Matrix
 factorization:charge_battery, Battery Block
+factorization:logic_matrix_controller, Logic Matrix: Controller
+factorization:servo/sprocket, Dark Iron Sprocket
+factorization:socket/:34, Robotic Arm
+factorization:socket/:35, Item Shifter
+factorization:mirror, Mirror
+factorization:ceramics/glaze_bucket, Glaze Bucket
+factorization:servo/instruction_plate, Instruction Plate
+factorization:utiligoo:0, Goo
+factorization:corkscrew, Corkscrew
+factorization:daybarrel, item.factorization:daybarrel.name
+factorization:insulated_coil, Insulated Coil
+factorization:dark_iron_ingot, Dark Iron Ingot
+factorization:motor, Motor
+factorization:sculptTool:0, Sculpting Tool
+factorization:lead_ingot, Lead Ingot
+factorization:tool/matrix_programmer, Logic Matrix Programmer
+factorization:tool/pocket_crafting_table, Pocket Crafting Table
+factorization:nether_powder, Netherrack Powder
+factorization:diamond_shard, Diamond Block Shard
+factorization:servo/servo, Servo
+factorization:sludge, Sludge
+factorization:servo/commenter, Commenter
+factorization:servo/decorator, item.factorization:servo/decorator.name
+factorization:mansandwich:0, Manwich
+factorization:mansandwich:1, Spicy Manwich
+factorization:tool/charge_meter, Charge Meter
+factorization:docbook, The Factorization Manual
+factorization:spawnPoster, Poster
+factorization:entheas, Entheas
+factorization:socket/scissors, Enormous Scissors
+factorization:brokenArtifact, item.factorization:brokenArtifact.name
+factorization:servo/servo_motor, Servo Motor
+factorization:potencyBottle, Bottle of Potency
+factorization:barrelCart:0, Barrel Cart
+factorization:barrelCart:0, Barrel Cart: Creative Bedrock Barrel
+factorization:diamond_cutting_head, Diamond Cutting Head
 foundry:foundryComponent:0, Stone Gear
 foundry:foundryComponent:1, Heating Coil
 foundry:foundryComponent:2, Refractory Clay

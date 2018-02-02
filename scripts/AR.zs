@@ -6,6 +6,9 @@ recipes.remove(<advancedRocketry:utilBlock>);
 recipes.remove(<advancedRocketry:satellitePowerSource>);
 recipes.remove(<advancedRocketry:oreScanner>);
 recipes.remove(<advancedRocketry:tile.solarGenerator>);
+recipes.remove(<advancedRocketry:observatory>);
+recipes.remove(<advancedRocketry:tile.drill>);
+
 
 mods.techreborn.blastFurnace.addRecipe(<advancedRocketry:advancedRocketryproductingot>*2, null, <techreborn:ingot:27>, <tfctech:item.Aluminum Ingot>, 1000, 128, 2300);
 mods.techreborn.blastFurnace.addRecipe(<advancedRocketry:advancedRocketryproductingot:1>*2, null, <techreborn:ingot:27>, <techreborn:ingot:14>, 1000, 128, 3200);
@@ -234,11 +237,6 @@ recipes.addShaped(<advancedRocketry:tile.stationmonitor>,
   [<libVulpes:libVulpesproductcrystal>, <libVulpes:libVulpescoil0:7>, <libVulpes:libVulpesproductcrystal>],
   [<techreborn:part:4>, <techreborn:highlyadvancedmachine>, <techreborn:part:4>]]);
 
-recipes.remove(<advancedRocketry:tile.drill>);
-recipes.addShaped(<advancedRocketry:tile.drill>,
- [[null, <customitems:tungstencarbide>, null],
-  [<customitems:tungstencarbide>, <ImmersiveEngineering:drillhead>, <customitems:tungstencarbide>],
-  [<ore:plateTitanium>, <libVulpes:blockStructureBlock>, <ore:plateTitanium>]]);
 
 recipes.remove(<advancedRocketry:tile.solarPanel>);
 recipes.addShaped(<advancedRocketry:tile.solarPanel>,

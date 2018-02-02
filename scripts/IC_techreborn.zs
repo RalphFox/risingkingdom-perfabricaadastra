@@ -47,6 +47,8 @@ mods.ic2.Extractor.addRecipe(<ihl:item.ihlSimpleItem:7>*2, <IC2:itemHarz>);
 mods.techreborn.centrifuge.removeRecipe(<IC2:itemDust>);
 mods.techreborn.centrifuge.removeRecipe(<techreborn:dust:46>);
 mods.techreborn.centrifuge.removeInputRecipe(<minecraft:glowstone_dust>);
+mods.techreborn.centrifuge.removeInputRecipe(<minecraft:dirt>);
+mods.techreborn.centrifuge.removeInputRecipe(<minecraft:grass>);
 
 mods.techreborn.industrialElectrolyzer.removeInputRecipe(<techreborn:dust:57>);
 mods.techreborn.industrialElectrolyzer.removeInputRecipe(<techreborn:dust:62>);
