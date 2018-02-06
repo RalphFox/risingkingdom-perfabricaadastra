@@ -32,7 +32,7 @@ else
 fi
 
 printf "${CYAN}===Backup of minecraft folder in progress..===\n${NC}"
-if env GZIP=-9 tar -cvzf Minecraft_${DATE}_before_${CURRENTVERSION}.tar.gz Minecraft --exclude "../Minecraft/backups"
+if env GZIP=-9 tar -cvzf Minecraft_${DATE}_before_${CURRENTVERSION}.tar.gz ../Minecraft --exclude "../Minecraft/backups"
 then
   printf "${LGREEN}===Backup successfully finished.===\n${NC}"
 else
